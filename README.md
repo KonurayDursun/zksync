@@ -39,7 +39,7 @@ The following guides for developers are available:
 - Repository architecture overview: [docs/architecture.md](docs/architecture.md).
 
 ## Projects
-
+## Steps
 - [zkSync server](core/bin/server)
 - [zkSync prover](core/bin/prover)
 - [JavaScript SDK](sdk/zksync.js)
